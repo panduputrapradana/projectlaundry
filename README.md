@@ -1,1 +1,1 @@
-# projectinventory
+# projectlaundry
